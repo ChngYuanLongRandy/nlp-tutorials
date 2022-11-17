@@ -1,0 +1,8 @@
+matplotlib
+spacy
+nltk
+gensim
+polyglot
+scikit-learn
+ipykernel
+transformers

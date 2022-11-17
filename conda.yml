@@ -1,0 +1,10 @@
+name: nlp-tutorials
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - spacy-model-en_core_web_sm
+  - pip:
+    - -r requirements.txt 
